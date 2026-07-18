@@ -1,0 +1,42 @@
+[
+  {
+    "query": "¿Cuántos días de vacaciones acumulo por año?",
+    "expected_category": "hr"
+  },
+  {
+    "query": "¿Cómo solicito la licencia de paternidad?",
+    "expected_category": "hr"
+  },
+  {
+    "query": "¿Cuándo se paga la nómina y qué hago si hay un error en mi recibo?",
+    "expected_category": "hr"
+  },
+  {
+    "query": "Olvidé mi contraseña corporativa, ¿cómo la recupero?",
+    "expected_category": "tech"
+  },
+  {
+    "query": "La VPN no conecta desde mi casa, ¿qué debo revisar antes de abrir un ticket?",
+    "expected_category": "tech"
+  },
+  {
+    "query": "Necesito instalar un software que no está en el catálogo aprobado, ¿cómo lo solicito?",
+    "expected_category": "tech"
+  },
+  {
+    "query": "¿En cuánto tiempo me reembolsan un gasto de viaje?",
+    "expected_category": "finance"
+  },
+  {
+    "query": "¿Cuál es el tope diario de viáticos de alimentación?",
+    "expected_category": "finance"
+  },
+  {
+    "query": "Un cliente dice que su factura tiene un error, ¿cuál es el proceso para corregirla?",
+    "expected_category": "finance"
+  },
+  {
+    "query": "¿Qué necesito para solicitar una tarjeta corporativa?",
+    "expected_category": "finance"
+  }
+]

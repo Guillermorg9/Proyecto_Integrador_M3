@@ -1,0 +1,37 @@
+POLÍTICAS Y PROCEDIMIENTOS DEL ÁREA DE FINANZAS
+
+1. REEMBOLSO DE GASTOS (EXPENSE REIMBURSEMENT)
+Los empleados pueden solicitar reembolso de gastos de negocio (viajes, comidas con clientes, transporte, materiales) a través del sistema interno de gastos, adjuntando el recibo o factura correspondiente. Todo gasto debe registrarse dentro de los 30 días posteriores a la fecha en que se realizó; después de ese periodo, el reembolso queda sujeto a aprobación especial del área de finanzas. Los gastos menores a un monto definido en la política interna no requieren aprobación previa del manager, mientras que gastos mayores sí requieren aprobación explícita antes de realizarse. El tiempo de procesamiento de un reembolso aprobado es de 5 a 7 días hábiles, y el pago se deposita directamente en la cuenta bancaria registrada del empleado.
+
+2. TARJETA CORPORATIVA
+Los empleados con necesidades frecuentes de gasto de negocio (por ejemplo, equipos de ventas o de viajes) pueden solicitar una tarjeta de crédito corporativa. La solicitud se realiza a través de un formulario que requiere aprobación del manager y del área de finanzas. El uso de la tarjeta corporativa está limitado a gastos de negocio; cualquier gasto personal cargado por error debe reembolsarse a la empresa dentro de los 15 días siguientes al corte de estado de cuenta. El estado de cuenta de la tarjeta corporativa debe conciliarse mensualmente por el titular, adjuntando los recibos correspondientes a cada cargo en el sistema de gastos.
+
+3. VIÁTICOS Y VIAJES DE NEGOCIO
+Los viajes de negocio deben reservarse a través de la agencia de viajes corporativa autorizada, salvo excepciones justificadas. Los viáticos de alimentación tienen un tope diario definido según la ciudad de destino (categorías: nacional, internacional zona 1, internacional zona 2). El hospedaje debe reservarse en la categoría estándar corporativa; upgrades a categorías superiores corren por cuenta del empleado salvo aprobación especial. Todo viaje de negocio debe solicitarse con al menos 5 días de anticipación para garantizar mejores tarifas, salvo viajes de emergencia aprobados directamente por el manager y notificados a finanzas.
+
+4. CICLO DE NÓMINA Y COMPROBANTES FISCALES
+La nómina se procesa de forma quincenal, y los comprobantes fiscales de pago (recibos de nómina) se generan automáticamente y quedan disponibles en el portal de RRHH y finanzas dentro de las 24 horas posteriores al pago. Las retenciones de impuestos se calculan de forma automática según la legislación fiscal vigente del país de contratación del empleado. Cualquier ajuste fiscal (por ejemplo, cambio en el número de dependientes económicos) debe notificarse al área de finanzas con al menos 10 días de anticipación al siguiente corte de nómina para poder reflejarse correctamente.
+
+5. FACTURACIÓN A CLIENTES
+El área de finanzas emite las facturas a clientes de acuerdo con los términos contractuales definidos en cada contrato de servicio (usualmente neto 30 o neto 45 días). Las facturas se generan automáticamente el primer día hábil de cada mes para los contratos de suscripción recurrente. Si un cliente reporta una discrepancia en su factura, el equipo de finanzas tiene un compromiso de respuesta de 2 días hábiles para investigar y, de ser necesario, emitir una nota de crédito. Los pagos vencidos por más de 15 días generan un recordatorio automático al cliente, y por más de 30 días se escalan al equipo de cuentas por cobrar para gestión directa.
+
+6. PRESUPUESTOS Y APROBACIÓN DE GASTOS POR ÁREA
+Cada área de la empresa cuenta con un presupuesto anual aprobado durante el ciclo de planeación financiera, típicamente en el último trimestre del año anterior. Los gastos que excedan el presupuesto asignado a un área requieren aprobación adicional del director financiero (CFO). Las solicitudes de presupuesto adicional durante el año (fuera de ciclo) deben justificarse con un caso de negocio y se revisan en las reuniones mensuales de revisión financiera. El área de finanzas publica un reporte trimestral de ejecución presupuestal disponible para todos los líderes de área.
+
+7. COMPRAS Y PROCUREMENT
+Cualquier compra de bienes o servicios que supere el monto definido en la política de compras requiere al menos dos cotizaciones de proveedores distintos, salvo que exista un proveedor único homologado para esa categoría. Las órdenes de compra se generan en el sistema de procurement y requieren aprobación del manager solicitante y, dependiendo del monto, del área de finanzas. Los pagos a proveedores se procesan según los términos negociados en cada contrato, típicamente neto 30 días desde la recepción de la factura y la validación de que el bien o servicio fue entregado conforme a lo acordado.
+
+8. CIERRE CONTABLE Y REPORTES FINANCIEROS
+El cierre contable mensual se realiza dentro de los primeros 5 días hábiles del mes siguiente. Durante este periodo, todas las áreas deben registrar sus gastos pendientes y conciliar sus presupuestos antes de la fecha de corte. Los reportes financieros consolidados (estado de resultados, flujo de efectivo) se comparten con el equipo directivo en la segunda semana de cada mes. El cierre anual sigue un calendario extendido, con auditoría externa que típicamente se realiza en el primer trimestre del año siguiente.
+
+9. AUDITORÍAS INTERNAS Y EXTERNAS
+La empresa realiza auditorías internas trimestrales sobre procesos de gasto, nómina y cumplimiento de políticas financieras. La auditoría externa anual es realizada por una firma independiente y cubre los estados financieros del ejercicio fiscal completo. Todos los empleados deben conservar la documentación soporte de sus gastos (recibos, facturas, aprobaciones) durante un mínimo de 5 años, conforme a los requisitos legales y fiscales aplicables, ya que estos documentos pueden ser solicitados durante cualquier proceso de auditoría.
+
+10. POLÍTICA DE APROBACIÓN DE CONTRATOS Y NUEVOS PROVEEDORES
+Todo nuevo proveedor debe pasar por un proceso de homologación que incluye validación fiscal, revisión de referencias comerciales y, en el caso de proveedores que manejarán datos sensibles, una revisión del área de seguridad de la información. Los contratos con proveedores nuevos requieren revisión del área legal antes de su firma, además de la aprobación financiera correspondiente según el monto y duración del contrato. Los contratos recurrentes se revisan automáticamente 60 días antes de su fecha de vencimiento para decidir renovación, renegociación o terminación.
+
+11. MONEDA Y TIPOS DE CAMBIO
+Para operaciones en múltiples países, la empresa utiliza el tipo de cambio publicado por el banco central correspondiente al cierre del mes anterior para efectos de reportes consolidados. Los reembolsos de gastos realizados en moneda extranjera se convierten a la moneda local del empleado usando el tipo de cambio vigente en la fecha de la transacción original, reflejado en el recibo o comprobante de pago presentado.
+
+12. SOLICITUDES FRECUENTES AL EQUIPO DE FINANZAS
+Las solicitudes más comunes al equipo de finanzas incluyen: estado de un reembolso de gastos pendiente, dudas sobre el tope de viáticos para un destino específico, solicitud de una copia de factura o comprobante fiscal, aclaraciones sobre deducciones o retenciones en el recibo de nómina, y consultas sobre el proceso de aprobación de una nueva orden de compra. Estas solicitudes se gestionan a través del sistema de tickets de finanzas, con un compromiso de respuesta de 2 días hábiles para consultas generales.
