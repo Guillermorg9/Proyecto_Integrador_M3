@@ -1,5 +1,5 @@
 """
-Agente RAG especializado en Finanzas.
+Agente RAG especializado en TI.
 
 Responde preguntas usando SOLO la base de conocimiento en data/tech_docs/tech_knowledge.txt, para evitar que el modelo invente políticas que no existen.
 """
